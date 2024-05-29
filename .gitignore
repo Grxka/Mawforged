@@ -1,0 +1,27 @@
+# Ignore binaries
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Ignore user files
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Ignore build files
+*.pdb
+*.obj
+*.dll
+*.exe
+
+# Ignore config files
+*.ini
+
+# Ignore Mac OS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
